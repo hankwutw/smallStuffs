@@ -1,9 +1,5 @@
 <<<<<<< HEAD
-<<<<<<< HEAD
 222333
-=======
-222 
->>>>>>> parent of 0ed7971... conflict.txt updated
 =======
 222 
 >>>>>>> parent of 0ed7971... conflict.txt updated
